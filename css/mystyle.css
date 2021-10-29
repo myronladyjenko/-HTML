@@ -1,0 +1,57 @@
+body
+{
+  background: #008000;
+}
+
+p
+{ 
+  text-align: justify;
+  text-indent: 20px;
+  font-family: Arial;
+  font-size: 14pt;
+}
+
+.cont
+{
+margin-left: 5%;
+margin-right: 5%;
+padding: 10px 20px;
+
+}
+
+.imgt
+{
+box-shadow: 6px 9px 25px;
+margin-left: 5%;
+}
+
+.imgt:hover
+{
+transform: rotate(4deg) scale(1.1);
+}
+.txt
+{
+  display:flex;
+  justify-content:space-around;
+  align-items:center;
+  flex-direction: row;
+  background: #7FFFD4;
+}
+
+
+.nazv
+{
+  margin-top: 20pt; 
+  text-align: center;
+  font-family: Arial;
+  font-size: 38pt;
+  font-weight: bold;
+  color:#7B68EE;
+}
+
+.avt
+{
+  text-align: center;
+  font-size: 12pt;
+}
+
